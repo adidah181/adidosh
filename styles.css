@@ -1,0 +1,11 @@
+/***********tag selectors*********/
+body {
+  background-color: #ccedd2;
+}
+img {
+  border-style: solid;
+}
+hr {
+  border: 0.5px solid black;
+}
+/***********class selectors*********/
